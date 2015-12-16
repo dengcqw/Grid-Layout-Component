@@ -11,6 +11,6 @@ react-native start --root [this Component folder]
 
 # something like below
 
-![Sample 1](/images/pic1.png)
-![Sample 2](/images/pic2.png)
-![Sample 3](/images/pic3.png)
+![Sample 1](/images/pic1.png =160x500)
+![Sample 2](/images/pic2.png =160x500)
+![Sample 3](/images/pic3.png =160x500)
